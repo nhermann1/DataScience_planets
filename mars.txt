@@ -1,5 +1,2 @@
 Mars is red and cold.
-Mars is the fourth planet.
-Elon wants to go to Mars.
-Mars is the closest planet to Earth.
-Mars is bigger than Earth.
+Mars is the fourth planet
